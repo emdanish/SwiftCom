@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Flat UI Colors -->
+    <color name="turquoise">#1abc9c</color>
+    <color name="green_sea">#16a085</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="nephritis">#27ae60</color>
+    <color name="peter_river">#3498db</color>
+    <color name="belize_hole">#2980b9</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="wisteria">#8e44ad</color>
+    <color name="wet_asphalt">#34495e</color>
+    <color name="midnight_blue">#2c3e50</color>
+    <color name="sun_flower">#f1c40f</color>
+    <color name="orange">#f39c12</color>
+    <color name="carrot">#e67e22</color>
+    <color name="pumpkin">#d35400</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="pomegranate">#c0392b</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="concrete">#95a5a6</color>
+    <color name="asbestos">#7f8c8d</color>
+    
+    <!-- Theme Colors -->
+    <color name="primary">@color/peter_river</color>
+    <color name="primary_dark">@color/belize_hole</color>
+    <color name="primary_light">#90CAF9</color>
+    <color name="accent">@color/sun_flower</color>
+    <color name="secondary">@color/emerald</color>
+    <color name="secondary_dark">@color/nephritis</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">@color/wet_asphalt</color>
+    <color name="text_secondary">@color/asbestos</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Background Colors -->
+    <color name="background">@color/clouds</color>
+    <color name="surface">@color/white</color>
+    <color name="error">@color/alizarin</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

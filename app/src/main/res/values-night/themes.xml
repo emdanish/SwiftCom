@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Test" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Color attributes -->
+        <item name="colorPrimary">@color/belize_hole</item>
+        <item name="colorPrimaryDark">@color/midnight_blue</item>
+        <item name="colorPrimaryContainer">@color/wet_asphalt</item>
+        <item name="colorSecondary">@color/nephritis</item>
+        <item name="colorSecondaryContainer">@color/green_sea</item>
+        <item name="colorAccent">@color/orange</item>
+        <item name="colorError">@color/pomegranate</item>
+        
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/clouds</item>
+        <item name="android:textColorSecondary">@color/silver</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/midnight_blue</item>
+        <item name="colorSurface">@color/wet_asphalt</item>
+        
+        <!-- Status bar and Navigation bar -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+    </style>
+</resources>
